@@ -25,6 +25,6 @@
   },
   "dependencies": {
     "@tryghost/errors": "1.2.20",
-    "algoliasearch": "4.14.3"
+    "algoliasearch": "4.23.2"
   }
 }
