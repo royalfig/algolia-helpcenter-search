@@ -3874,10 +3874,10 @@ from2@^2.1.0:
     inherits "^2.0.1"
     readable-stream "^2.0.0"
 
-fs-extra@11.1.0:
-  version "11.1.0"
-  resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-11.1.0.tgz#5784b102104433bb0e090f48bfc4a30742c357ed"
-  integrity sha512-0rcTq621PD5jM/e0a3EJoGC/1TC5ZBCERW82LQuwfGnCa1V8w7dpYH1yNu+SLb6E5dkeCBzKEyLGlFrnr+dUyw==
+fs-extra@11.4.0:
+  version "11.4.0"
+  resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-11.4.0.tgz#f88ed6d180ac9e14b61b08e679468f0b1b6b4730"
+  integrity sha512-EQsFzMUJkCKGr1ePqlYADkIUmHW1s3ZXr5Yqy6wbGrfUCphpl2maM/kyOIRA2HpP3AaFQTZXD4ldjek+nccddA==
   dependencies:
     graceful-fs "^4.2.0"
     jsonfile "^6.0.1"
